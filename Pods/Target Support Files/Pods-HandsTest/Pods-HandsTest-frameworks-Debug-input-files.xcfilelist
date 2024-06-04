@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-HandsTest/Pods-HandsTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/R.swift/RswiftResources.framework
+${BUILT_PRODUCTS_DIR}/R.swift.Library/Rswift.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework

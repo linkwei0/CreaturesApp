@@ -1,0 +1,16 @@
+/* 
+  CreatureList.strings
+  HandsTest
+*/
+
+"creature.list.title" = "Клеточное наполнение";
+"creature.button.create.title" = "СОТВОРИТЬ";
+
+"creature.type.alive.status" = "Живая";
+"creature.type.dead.status" = "Мертвая";
+"creature.type.baby.status" = "Жизнь";
+
+"creature.type.alive.description" = "и шевелится!";
+"creature.type.dead.description" = "или прикидывается";
+"creature.type.baby.description" = "ку-ку!";
+
